@@ -1,0 +1,21 @@
+li {
+  display: inline;
+  text-decoration: none;
+  padding: 5px;
+}
+ul {
+  background: #F19773;
+  text-align: center;
+  padding: 20px 0;
+}
+p {
+  text-align: left;
+  display: inline;
+}
+ul .logo {
+  padding-right: 300px;
+}
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
